@@ -125,7 +125,7 @@ Recommended
 - [Deployer](https://deployer.org/blog/how-to-deploy-laravel)
 
 ---
-
+ 
 Special thanks to [Ambientum](https://github.com/codecasts/ambientum), an incredible Brazilian project, for the [build](https://github.com/codecasts/ambientum/blob/master/build.sh) script.
 
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
