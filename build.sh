@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # resulting images namespace on docker hub
-NAMESPACE=edbizarro/gitlab-ci-pipeline
+NAMESPACE=commadore/gitlab-ci-pipeline
 
 # publish the built images
 PUBLISH=true
