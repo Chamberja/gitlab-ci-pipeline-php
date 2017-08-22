@@ -11,4 +11,5 @@ apt-get update \
       zlib1g-dev \
       apt-utils \
       rsync \
+      sed \
       --no-install-recommends
