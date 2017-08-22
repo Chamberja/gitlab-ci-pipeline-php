@@ -12,4 +12,5 @@ apt-get update \
       apt-utils \
       rsync \
       sed \
+      grep \
       --no-install-recommends
