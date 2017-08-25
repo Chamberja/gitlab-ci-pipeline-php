@@ -11,6 +11,5 @@ apt-get update \
       zlib1g-dev \
       apt-utils \
       rsync \
-      sed \
-      grep \
+      python \
       --no-install-recommends
